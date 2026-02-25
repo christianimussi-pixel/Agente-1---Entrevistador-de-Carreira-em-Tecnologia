@@ -171,3 +171,200 @@ Sempre há demanda por suporte técnico, e com IA surgem novas oportunidades em 
 
 Qual dessas carreiras te chamou mais atenção?
 🥇 1º LUGAR: Analista de Implementação em IA – 18/20
+
+Ótimo ajuste! Vamos expandir seu plano para **120 dias (4 meses)**, mantendo o foco em **crescimento** na carreira de **Analista de Implementação em IA**, com **6 horas semanais** de estudo.  
+
+---
+
+## 📅 ROADMAP DE 120 DIAS  
+
+**ADAPTADO PARA: 6 horas/semana (ritmo moderado, mais espaçado)**  
+
+### MÊS 1 - FUNDAMENTOS  
+
+**SEMANA 1-2:**  
+- Aprender lógica de programação básica em Python  
+- Estudar fundamentos de IA e ML (conceitos, tipos de aprendizado)  
+
+**SEMANA 3-4:**  
+- Manipulação de dados com Pandas e NumPy  
+- Introdução a SQL para consultas simples  
+
+---
+
+### MÊS 2 - PRÁTICA  
+
+**SEMANA 5-6:**  
+- Treinar modelos básicos de classificação (ex: previsão de churn simples)  
+- Explorar Scikit-learn para pipelines de ML  
+
+**SEMANA 7-8:**  
+- Introdução a TensorFlow/PyTorch  
+- Criar um mini projeto de modelo simples (ex: recomendação de produtos)  
+
+---
+
+### MÊS 3 - PORTFÓLIO  
+
+**SEMANA 9-10:**  
+- Aprender sobre deploy de modelos em APIs (Flask/FastAPI)  
+- Criar documentação simples para usuários finais  
+
+**SEMANA 11-12:**  
+- Publicar projeto em GitHub e escrever README detalhado  
+- Revisar boas práticas de versionamento e colaboração em equipe  
+
+---
+
+### MÊS 4 - CONSOLIDAÇÃO E PREPARAÇÃO  
+
+**SEMANA 13-14:**  
+- Implementar monitoramento básico de modelo (logs, métricas)  
+- Estudar conceitos de MLOps e ciclo de vida de modelos  
+
+**SEMANA 15-16:**  
+- Simular entrevistas técnicas e comportamentais  
+- Revisar todo o conteúdo e preparar apresentação do portfólio  
+
+---
+
+## 🚀 PROJETO DE PORTFÓLIO  
+
+**PROJETO PRINCIPAL:** Assistente de Atendimento com IA  
+- Classificação de intenções de clientes (suporte, reclamação, dúvida)  
+- API funcional para consulta de intenções  
+- Deploy simples em ambiente local ou cloud gratuito  
+
+**PROJETO EXTRA (graças ao prazo maior):**  
+**Sistema de Recomendação de Cursos Online**  
+- Dataset de cursos e preferências de usuários  
+- Modelo de recomendação baseado em similaridade  
+- Interface simples para interação  
+
+---
+
+## 💬 ROTEIRO DE ENTREVISTAS  
+
+- **Pergunta 1:** O que é IA?  
+- **Pergunta 2:** Diferença entre IA e ML  
+- **Pergunta 3:** Como explicar um modelo para não técnicos  
+- **Pergunta 4:** O que é overfitting  
+- **Pergunta 5:** Como trabalhar em equipe na implementação de IA  
+
+*(Respostas já estruturadas no plano anterior, mantidas aqui para prática contínua)*  
+
+---
+
+## 🎓 TRILHA DIO RECOMENDADA  
+
+**TRILHA:** *Formação Inteligência Artificial Practitioner*  
+
+**POR QUE ESSA TRILHA:**  
+Cobre fundamentos de Python, Machine Learning e aplicações práticas de IA, alinhando com seu objetivo de crescimento e preparando para atuar em projetos reais.  
+
+**PRÓXIMOS PASSOS:**  
+1. Acesse dio.me  
+2. Busque por "Formação Inteligência Artificial Practitioner"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+✨ Seu plano de **120 dias** está pronto!  
+
+Esse prazo maior permite consolidar melhor os fundamentos e ainda incluir um **projeto extra de portfólio**, fortalecendo sua posição para crescimento na carreira.  
+
+Quer que eu detalhe **o projeto extra de recomendação de cursos** com escopo e entregáveis, como fiz com o primeiro projeto?
+Excelente ideia! Colocar o **GitHub logo no início do roadmap** vai te ajudar a organizar seus estudos, registrar sua evolução e já começar a construir presença profissional. Vamos ajustar o plano de **120 dias** para incluir GitHub como primeira etapa.  
+
+---
+
+## 📅 ROADMAP DE 120 DIAS (com GitHub desde o início)  
+
+**ADAPTADO PARA: 6 horas/semana**  
+
+### MÊS 1 - FUNDAMENTOS + GITHUB  
+
+**SEMANA 1-2:**  
+- Criar conta no GitHub e configurar Git local  
+- Aprender comandos básicos: `git init`, `git add`, `git commit`, `git push`  
+- Estudar lógica de programação básica em Python  
+- Fundamentos de IA e ML (conceitos, tipos de aprendizado)  
+
+**SEMANA 3-4:**  
+- Manipulação de dados com Pandas e NumPy  
+- Introdução a SQL para consultas simples  
+- Criar repositório “Estudos-IA” e subir exercícios semanais  
+
+---
+
+### MÊS 2 - PRÁTICA  
+
+**SEMANA 5-6:**  
+- Treinar modelos básicos de classificação (ex: previsão de churn simples)  
+- Explorar Scikit-learn para pipelines de ML  
+- Documentar cada experimento no GitHub (README + notebooks)  
+
+**SEMANA 7-8:**  
+- Introdução a TensorFlow/PyTorch  
+- Criar mini projeto de recomendação de produtos  
+- Publicar projeto no GitHub com instruções de execução  
+
+---
+
+### MÊS 3 - PORTFÓLIO  
+
+**SEMANA 9-10:**  
+- Aprender sobre deploy de modelos em APIs (Flask/FastAPI)  
+- Criar documentação simples para usuários finais  
+- Criar branch “portfolio” no GitHub para organizar projetos principais  
+
+**SEMANA 11-12:**  
+- Publicar projeto em GitHub Pages ou Vercel  
+- Revisar boas práticas de versionamento e colaboração em equipe  
+
+---
+
+### MÊS 4 - CONSOLIDAÇÃO E PREPARAÇÃO  
+
+**SEMANA 13-14:**  
+- Implementar monitoramento básico de modelo (logs, métricas)  
+- Estudar conceitos de MLOps e ciclo de vida de modelos  
+- Criar Wiki no GitHub com resumo dos aprendizados  
+
+**SEMANA 15-16:**  
+- Simular entrevistas técnicas e comportamentais  
+- Revisar todo o conteúdo e preparar apresentação do portfólio  
+- Criar repositório “Portfolio-IA” com projetos finais organizados  
+
+---
+
+## 🚀 PROJETOS DE PORTFÓLIO  
+
+**PROJETO PRINCIPAL:** Assistente de Atendimento com IA  
+- Classificação de intenções de clientes  
+- API funcional para consulta de intenções  
+- Deploy simples em ambiente local ou cloud gratuito  
+- Repositório GitHub com README detalhado e exemplos de uso  
+
+**PROJETO EXTRA:** Sistema de Recomendação de Cursos Online  
+- Dataset de cursos e preferências de usuários  
+- Modelo de recomendação baseado em similaridade  
+- Interface simples para interação  
+- Publicação no GitHub com documentação clara  
+
+---
+
+## 💡 DICA ESPECIAL SOBRE GITHUB  
+
+- Crie **commits pequenos e frequentes** para mostrar evolução contínua  
+- Use **README.md** como diário de bordo dos estudos  
+- Organize projetos em pastas por mês (Mês1_Fundamentos, Mês2_Prática, etc.)  
+- Ative o **GitHub Pages** para publicar notebooks interativos ou documentação  
+
+---
+
+✨ Agora seu roadmap de 120 dias começa com GitHub, garantindo que cada passo do aprendizado já esteja registrado e visível para recrutadores e colegas.  
+
+Quer que eu monte um **modelo de README inicial** para você usar em todos os seus repositórios de estudo?
+
